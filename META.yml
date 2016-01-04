@@ -27,4 +27,4 @@ requires:
   Test::More: '0'
 resources:
   repository: https://github.com/karpet/catalystx-crud-modeladapter-dbic
-version: '0.14'
+version: '0.15'
